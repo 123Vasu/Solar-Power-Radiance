@@ -1,1 +1,1 @@
-#Solar Power & Radiance
+Solar Power & Radiance
