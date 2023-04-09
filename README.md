@@ -13,3 +13,8 @@ Important link: "https://app.helioscope.com/signup"
 3. Add compass and tilt angle
 4. 1 year prediction
 5. Report
+Task 3
+1. Prophet Model
+https://facebook.github.io/prophet/
+Task 4
+1.univariate and multivariate time series
